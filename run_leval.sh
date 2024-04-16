@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python Baselines/vicuna-streaming-llm-sampling.py --metric exam_eval --max_length 100k --sampling
